@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\uni\uni work\programming fundamentals\edwardsmithq12934917ae2\edwardsmithq12934917ae2\main.cpp(236): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  EdwardSmithQ12934917AE2.vcxproj -> E:\Uni\Uni Work\Programming fundamentals\EdwardSmithQ12934917AE2\Debug\EdwardSmithQ12934917AE2.exe
